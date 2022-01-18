@@ -1,0 +1,4 @@
+This is reset file for reset options
+
+Junk1
+junk2
